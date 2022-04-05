@@ -26,7 +26,7 @@ spec:
     - cat
     tty: true
   - name: azurecli
-    image: microsoft/azure-cli:latest
+    image: mcr.microsoft.com/azure-cli:latest
     command:
     - cat
     tty: true
